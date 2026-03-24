@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Soy Noel Barcia Almagro</h1>
 <h3 align="center">Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnología, con ganas de crear cosas nuevas buscando la innovación y siempre buscando nuevos retos. Aquí comparto proyectos personales y colaborativos, ¡siempre abierto a nuevas oportunidades de aprendizaje!</h3>
 
-- 🔭 Actualmente trabajo en el proyecto [NexoAsociados](nexoasociados.com)
+- 🔭 Actualmente trabajo en el proyecto [NexoAsociados](https://nexoasociados.com)
 
 - 🌱 Ahora mismo estoy acabando el **CE Inteligencia Artificial y Big Data**
 
